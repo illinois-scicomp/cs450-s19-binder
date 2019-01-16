@@ -1,4 +1,4 @@
-# Notebooks for CS450 Spring 2019
+# Jupyter Notebooks for CS450 Spring 2019
 
 [Play with these
 notebooks](http://mybinder.org/repo/illinois-scicomp/cs450-s19-binder), courtesy of
